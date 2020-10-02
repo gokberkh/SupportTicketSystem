@@ -62,42 +62,42 @@ password : user
 
 <h1>HOME PAGE</h1>
 
-[![image](https://i.hizliresim.com/LZgONU.png)](https://i.hizliresim.com/LZgONU)
+[![image](https://i.hizliresim.com/LZgONU.png)](https://hizliresim.com/LZgONU)
 
 <h1>REGISTER PAGE</h1>
 
-[![image](https://i.hizliresim.com/aHYyQf.png)](https://i.hizliresim.com/aHYyQf)
+[![image](https://i.hizliresim.com/aHYyQf.png)](https://hizliresim.com/aHYyQf)
 
 <h1>LOGIN PAGE</h1>
 
-[![image](https://i.hizliresim.com/dMR2EU.png)](https://i.hizliresim.com/dMR2EU)
+[![image](https://i.hizliresim.com/dMR2EU.png)](https://hizliresim.com/dMR2EU)
 
 <h1>PROFİLE PAGE</h1>
 
-[![image](https://i.hizliresim.com/pbp7nO.png)](https://i.hizliresim.com/pbp7nO)
+[![image](https://i.hizliresim.com/pbp7nO.png)](https://hizliresim.com/pbp7nO)
 
 <h1>ADMIN PAGE CHANGE STATUS</h1>
 
-[![image](https://i.hizliresim.com/g0OUMu.png)](https://i.hizliresim.com/g0OUMu)
+[![image](https://i.hizliresim.com/g0OUMu.png)](https://hizliresim.com/g0OUMu)
 <h1>ADMİN PAGE STATUS FILTERING</h1>
 
-[![image](https://i.hizliresim.com/swWXpf.png)](https://i.hizliresim.com/swWXpf)
+[![image](https://i.hizliresim.com/swWXpf.png)](https://hizliresim.com/swWXpf)
 
 <h1>ADMİN PAGE DYNAMIC SEARCH</h1>
 
-[![image](https://i.hizliresim.com/xHKSit.png)](https://i.hizliresim.com/xHKSit)
+[![image](https://i.hizliresim.com/xHKSit.png)](https://hizliresim.com/xHKSit)
 
 <h1>USER PAGE</h1>
 
-[![image](https://i.hizliresim.com/Y1d6AH.png)](https://i.hizliresim.com/Y1d6AH)
+[![image](https://i.hizliresim.com/Y1d6AH.png)](https://hizliresim.com/Y1d6AH)
 
 <h1>ADD MESSAGE</h1>
 
-[![image](https://i.hizliresim.com/55x2oZ.png)](https://i.hizliresim.com/55x2oZ)
+[![image](https://i.hizliresim.com/55x2oZ.png)](https://hizliresim.com/55x2oZ)
 
 <h1>ADD TICKET PAGE</h1>
 
-[![image](https://i.hizliresim.com/QXvtNs.png)](https://i.hizliresim.com/QXvtNs)
+[![image](https://i.hizliresim.com/QXvtNs.png)](https://hizliresim.com/QXvtNs)
 
 
 
