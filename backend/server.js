@@ -14,7 +14,8 @@ app.use(
   })
 )
 app.use('/public', express.static('public'));
-const mongoURI = 'mongodb+srv://admin:admin123@cluster0.olagr.mongodb.net/ticketsystem?retryWrites=true&w=majority'
+
+const mongoURI = ''    //Database 
 
 mongoose
   .connect(
